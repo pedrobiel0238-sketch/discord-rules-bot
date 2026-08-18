@@ -1,0 +1,16 @@
+{
+  "name": "discord-rules-panel",
+  "version": "1.0.0",
+  "description": "Bot Discord profissional de painel de regras, otimizado para Vetra Cloud.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  }
+}
